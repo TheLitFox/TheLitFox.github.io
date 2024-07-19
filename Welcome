@@ -1,8 +1,59 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Lit Fox - Portfolio</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
 <body>
-  <h1>LitFox Lynzy</h1>
-  <p>Welcome to my website!</p>
-<img src="https://tenor.com/b0eWl.gif" />
-
+    <header>
+        <h1>Welcome to The Lit Fox's Portfolio 
+        <br>Under Construction</br></h1>
+        <nav>
+            <ul>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <!-- Add your project details here -->
+        <div class="project">
+            <h3>To Be Announced</h3>
+  
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <!-- List your skills here -->
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <!-- To Be Continued -->
+        </ul>
+    </section>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <!-- Add your about me content here -->
+        <p>Hi, I'm The LitFox. I am passionate about web development and have been creating and maintaining blogs since the days of MySpace. I enjoy coding, learning new technologies, and building user-friendly websites.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <!-- Add your contact​ form or details here -->
+        <p>You can reach me at <a href="mailto:litfox.lynzy@gmail.com">litfox.lynzy@gmail.com</a></p>
+        <!-- Or add a contact form -->
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 The LitFox</p>
+    </footer>
+</body>
 </html>
